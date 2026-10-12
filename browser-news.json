@@ -1,0 +1,553 @@
+{
+  "collectedAt": "2026-10-12T19:37:43.463Z",
+  "sources": [
+    {
+      "name": "Fujifilm USA",
+      "url": "https://newsroom-us.fujifilm.com/press-releases/default.aspx",
+      "articles": [
+        {
+          "title": "Fujifilm Launches Synapse Pathology v3.0, Advancing the Digital Pathology Experience With Expanded AI Capabilities",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Launches-Synapse-Pathology-v3-0-Advancing-the-Digital-Pathology-Experience-With-Expanded-AI-Capabilities/default.aspx",
+          "dateText": "October 12, 2026",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Fujifilm to Showcase U.S. Manufacturing and One-Stop Solution Strategy at SEMICON West 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-to-Showcase-U-S--Manufacturing-and-One-Stop-Solution-Strategy-at-SEMICON-West-2026/default.aspx",
+          "dateText": "October 8, 2026",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "Fujifilm Announces First Install of its FUJIFILM REVORIA PRESS™ PC2120 in the Americas at National Color Graphics",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-First-Install-of-its-FUJIFILM-REVORIA-PRESS-PC2120-in-the-Americas-at-National-Color-Graphics/default.aspx",
+          "dateText": "October 6, 2026",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "FUJIFILM Biotechnologies Publishes FY2025 Sustainability Review – Progressing on its Partners for the Planet Ambition",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Biotechnologies-Publishes-FY2025-Sustainability-Review--Progressing-on-its-Partners-for-the-Planet-Ambition-2026-RWUuWBEfIN/default.aspx",
+          "dateText": "October 6, 2026",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "Fujifilm Installs Manufacturing Equipment for Antibody-Drug Conjugate (ADC) Components at Hirono Plant",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Installs-Manufacturing-Equipment-for-Antibody-Drug-Conjugate-ADC-Components-at-Hirono-Plant-2026-CIzxWQlQ3H/default.aspx",
+          "dateText": "October 6, 2026",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "Fujifilm Expands Consumer Photo Printing Capabilities with the Introduction of “Fujifilm for Google Photos Print Store”",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Expands-Consumer-Photo-Printing-Capabilities-with-the-Introduction-of-Fujifilm-for-Google-Photos-Print-Store-7a4726cfd/default.aspx",
+          "dateText": "September 30, 2026",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Fujifilm Demonstrates the Utility of AI-AAM® , the Core Technology Behind Its AI-powered Drug Design Service “drug2drugs®”",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Demonstrates-the-Utility-of-AI-AAM--the-Core-Technology-Behind-Its-AI-powered-Drug-Design-Service-drug2drugs-2026-EQCSPdqCEi/default.aspx",
+          "dateText": "September 30, 2026",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Fujifilm to Showcase Manufacturing Innovation and Leadership at CPHI 2026 Amid Three Award Shortlist Nominations",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-to-Showcase-Manufacturing-Innovation-and-Leadership-at-CPHI-2026-Amid-Three-Award-Shortlist-Nominations-2026-RvH5Vdx8Ux/default.aspx",
+          "dateText": "September 29, 2026",
+          "date": "2026-09-29"
+        },
+        {
+          "title": "Performance, Productivity, and Durability: Introducing FUJIFILM Dimatix STARFIRE® PhaseMaster Printhead",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Performance-Productivity-and-Durability-Introducing-FUJIFILM-Dimatix-STARFIRE-PhaseMaster-Printhead/default.aspx",
+          "dateText": "September 23, 2026",
+          "date": "2026-09-23"
+        },
+        {
+          "title": "FUJIFILM Business Innovation Recognizes 42 Global Achievements in Print Excellence at the Innovation Print Awards 2026 Global",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Business-Innovation-Recognizes-42-Global-Achievements-in-Print-Excellence-at-the-Innovation-Print-Awards-2026-Global/default.aspx",
+          "dateText": "September 15, 2026",
+          "date": "2026-09-15"
+        },
+        {
+          "title": "A Camera That Fits With You: Fujifilm Introduces instax Pal 2™ Digital Camera",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/A-Camera-That-Fits-With-You-Fujifilm-Introduces-instax-Pal-2-Digital-Camera/default.aspx",
+          "dateText": "September 14, 2026",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Memories, Printed WIDE - Fujifilm Introduces instax Link WIDE 2™ Smartphone Printer",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Memories-Printed-WIDE---Fujifilm-Introduces-instax-Link-WIDE-2-Smartphone-Printer/default.aspx",
+          "dateText": "September 14, 2026",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "FUJIFILM Business Innovation Announces Optimization of Production and Sales Structure for Printing Plate Materials to Strengthen Graphic Communications Business",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Business-Innovation-Announces-Optimization-of-Production-and-Sales-Structure-for-Printing-Plate-Materials-to-Strengthen-Graphic-Communications-Business/default.aspx",
+          "dateText": "September 9, 2026",
+          "date": "2026-09-09"
+        },
+        {
+          "title": "Fujifilm Launches VF-GFXC2, Dedicated Electronic Viewfinder for FUJIFILM GFX ETERNA 55 Filmmaking Camera",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Launches-VF-GFXC2-Dedicated-Electronic-Viewfinder-for-FUJIFILM-GFX-ETERNA-55-Filmmaking-Camera/default.aspx",
+          "dateText": "September 8, 2026",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Fujifilm Launches ETERNA ProRemote, Remote Control App for FUJIFILM GFX ETERNA 55 Filmmaking Camera",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Launches-ETERNA-ProRemote-Remote-Control-App-for-FUJIFILM-GFX-ETERNA-55-Filmmaking-Camera/default.aspx",
+          "dateText": "September 8, 2026",
+          "date": "2026-09-08"
+        },
+        {
+          "title": "Fujifilm Introduces FUJINON XF400mmF4.5 R LM OIS WR Lens",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Introduces-FUJINON-XF400mmF4-5-R-LM-OIS-WR-Lens/default.aspx",
+          "dateText": "September 4, 2026",
+          "date": "2026-09-04"
+        },
+        {
+          "title": "Fujifilm and ASGE Advance Partnership with Next-Generation Endoscopic Technology Upgrade at the Institute for Training and Technology",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-and-ASGE-Advance-Partnership-with-Next-Generation-Endoscopic-Technology-Upgrade-at-the-Institute-for-Training-and-Technology/default.aspx",
+          "dateText": "September 2, 2026",
+          "date": "2026-09-02"
+        },
+        {
+          "title": "Fujifilm Announces Availability of FUJINON UA94x8.7BESM 4K Broadcast Zoom Lens",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-Availability-of-FUJINON-UA94x8-7BESM-4K-Broadcast-Zoom-Lens/default.aspx",
+          "dateText": "September 1, 2026",
+          "date": "2026-09-01"
+        },
+        {
+          "title": "Fujifilm Expands Consumer Photo Printing Capabilities with the Introduction of “Fujifilm for Google Photos Print Store”",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Expands-Consumer-Photo-Printing-Capabilities-with-the-Introduction-of-Fujifilm-for-Google-Photos-Print-Store/default.aspx",
+          "dateText": "August 31, 2026",
+          "date": "2026-08-31"
+        },
+        {
+          "title": "FUJIFILM Americas Welcomes Michael J. Hartman as Vice President, General Counsel and Secretary",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Americas-Welcomes-Michael-J--Hartman-as-Vice-President-General-Counsel-and-Secretary/default.aspx",
+          "dateText": "August 27, 2026",
+          "date": "2026-08-27"
+        },
+        {
+          "title": "Fujifilm Announces First Sale of its FUJIFILM J Press FP790 Flexible Packaging Press in the Americas to Quantum Flex Pack",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-First-Sale-of-its-FUJIFILM-J-Press-FP790-Flexible-Packaging-Press-in-the-Americas-to-Quantum-Flex-Pack/default.aspx",
+          "dateText": "August 24, 2026",
+          "date": "2026-08-24"
+        },
+        {
+          "title": "Fujifilm to Showcase its Production Print Innovations at PRINTING United Expo 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-to-Showcase-its-Production-Print-Innovations-at-PRINTING-United-Expo-2026/default.aspx",
+          "dateText": "August 20, 2026",
+          "date": "2026-08-20"
+        },
+        {
+          "title": "Fujifilm Celebrates 200 Years of Photography at FUJIKINA New York 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Celebrates-200-Years-of-Photography-at-FUJIKINA-New-York-2026/default.aspx",
+          "dateText": "August 17, 2026",
+          "date": "2026-08-17"
+        },
+        {
+          "title": "Fujifilm Launches FUJIFILM PROJECTOR ZUH12000",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Launches-FUJIFILM-PROJECTOR-ZUH12000-55bb3897f/default.aspx",
+          "dateText": "August 4, 2026",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "FUJIFILM Biotechnologies Transitions Leadership to Drive Next Phase of Operational Excellence",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Biotechnologies-Transitions-Leadership-to-Drive-Next-Phase-of-Operational-Excellence/default.aspx",
+          "dateText": "August 4, 2026",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "Fujifilm and Taiho Pharmaceutical Enter into Strategic Partnership for Development of Next-Generation Antibody-Drug Conjugate (ADC) Manufacturing Technologies",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-and-Taiho-Pharmaceutical-Enter-into-Strategic-Partnership-for-Development-of-Next-Generation-Antibody-Drug-Conjugate-ADC-Manufacturing-Technologies/default.aspx",
+          "dateText": "August 3, 2026",
+          "date": "2026-08-03"
+        },
+        {
+          "title": "Fujifilm’s Business Innovation and Imaging Divisions to Exhibit Broad Range of Print Solutions at IPIC 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilms-Business-Innovation-and-Imaging-Divisions-to-Exhibit-Broad-Range-of-Print-Solutions-at-IPIC-2026-07-22-2026/default.aspx",
+          "dateText": "July 22, 2026",
+          "date": "2026-07-22"
+        },
+        {
+          "title": "FUJIFILM Sonosite Expands Portfolio with the Launch of Sonosite iLOOK, a Dedicated Ultrasound Solution for Vascular Access",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Sonosite-Expands-Portfolio-with-the-Launch-of-Sonosite-iLOOK-a-Dedicated-Ultrasound-Solution-for-Vascular-Access-07-21-2026/default.aspx",
+          "dateText": "July 21, 2026",
+          "date": "2026-07-21"
+        },
+        {
+          "title": "Fujifilm Announces Aspire Program Updates and Designer Sessions Summer and Fall Dates",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-Aspire-Program-Updates-and-Designer-Sessions-Summer-and-Fall-Dates-07-20-2026/default.aspx",
+          "dateText": "July 20, 2026",
+          "date": "2026-07-20"
+        },
+        {
+          "title": "Fujifilm Announces Firmware Roadmap for FUJIFILM GFX ETERNA 55 Filmmaking Camera",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-Firmware-Roadmap-for-FUJIFILM-GFX-ETERNA-55-Filmmaking-Camera-07-15-2026/default.aspx",
+          "dateText": "July 15, 2026",
+          "date": "2026-07-15"
+        },
+        {
+          "title": "Fujifilm Adds Second Cinema Power Zoom to GF Lens Lineup: FUJINON GF19-35mmT3.5 PZ OIS WR",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Adds-Second-Cinema-Power-Zoom-to-GF-Lens-Lineup-FUJINON-GF19-35mmT3-5-PZ-OIS-WR-07-09-2026/default.aspx",
+          "dateText": "July 9, 2026",
+          "date": "2026-07-09"
+        },
+        {
+          "title": "FUJIFILM Biotechnologies Selected in FDA PreCheck Pilot Program to Advance U.S. Drug Manufacturing",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Biotechnologies-Selected-in-FDA-PreCheck-Pilot-Program-to-Advance-U-S--Drug-Manufacturing-07-08-2026/default.aspx",
+          "dateText": "July 8, 2026",
+          "date": "2026-07-08"
+        },
+        {
+          "title": "“Apeos C5570” Complies with the New EPEAT 2.0 Criteria, an International Ecolabel for Electronics",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Apeos-C5570-Complies-with-the-New-EPEAT-2-0-Criteria-an-International-Ecolabel-for-Electronics-07-02-2026/default.aspx",
+          "dateText": "July 2, 2026",
+          "date": "2026-07-02"
+        },
+        {
+          "title": "FUJIFILM QuickSnap™ One-Time Use Cameras Celebrate 40 years with New Product Announcements",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-QuickSnap-One-Time-Use-Cameras-Celebrate-40-years-with-New-Product-Announcements-06-30-2026/default.aspx",
+          "dateText": "June 30, 2026",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "Fujifilm Life Sciences at BIO 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Life-Sciences-at-BIO-2026-06-17-2026/default.aspx",
+          "dateText": "June 17, 2026",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "Fujifilm Opens New Endoscopy Warehouse Facility in Fairfield, NJ, Expanding Service Operations and Supporting Continued Business Growth",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Opens-New-Endoscopy-Warehouse-Facility-in-Fairfield-NJ-Expanding-Service-Operations-and-Supporting-Continued-Business-Growth-06-17-2026/default.aspx",
+          "dateText": "June 17, 2026",
+          "date": "2026-06-17"
+        },
+        {
+          "title": "Fujifilm and HORIBA Co-develop High-Sensitivity Inline Raman Measurement System for Real-Time Monitoring of Cell Culture and Purification in Biopharmaceutical Manufacturing",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-and-HORIBA-Co-develop-High-Sensitivity-Inline-Raman-Measurement-System-for-Real-Time-Monitoring-of-Cell-Culture-and-Purification-in-Biopharmaceutical-Manufacturing-06-16-2026/default.aspx",
+          "dateText": "June 16, 2026",
+          "date": "2026-06-16"
+        },
+        {
+          "title": "Fujifilm to Debut New ZUH12000 Projector and Showcase Fully Immersive 360° Booth Experience at InfoComm 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-to-Debut-New-ZUH12000-Projector-and-Showcase-Fully-Immersive-360-Booth-Experience-at-InfoComm-2026-06-10-2026/default.aspx",
+          "dateText": "June 10, 2026",
+          "date": "2026-06-10"
+        },
+        {
+          "title": "New Color Capabilities, New Tech: Fujifilm Launches Flagship REVORIA PRESS™ PC2120",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/New-Color-Capabilities-New-Tech-Fujifilm-Launches-Flagship-REVORIA-PRESS-PC2120-06-08-2026/default.aspx",
+          "dateText": "June 8, 2026",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "Two Fujifilm Production Color Printers Win Red Dot Design Award: Product Design 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Two-Fujifilm-Production-Color-Printers-Win-Red-Dot-Design-Award-Product-Design-2026-06-03-2026/default.aspx",
+          "dateText": "June 3, 2026",
+          "date": "2026-06-03"
+        },
+        {
+          "title": "Fujifilm Announces Leadership Changes to Enhance Life Sciences Capabilities",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-Leadership-Changes-to-Enhance-Life-Sciences-Capabilities-06-03-2026/default.aspx",
+          "dateText": "June 3, 2026",
+          "date": "2026-06-03"
+        },
+        {
+          "title": "Fujifilm presents latest advanced packaging research results and will introduce PFAS-free PBO at ECTC 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-presents-latest-advanced-packaging-research-results-and-will-introduce-PFAS-free-PBO-at-ECTC-2026-05-21-2026/default.aspx",
+          "dateText": "May 21, 2026",
+          "date": "2026-05-21"
+        },
+        {
+          "title": "Fujifilm and mTuitive Forge Partnership to Advance Precision Medicine",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-and-mTuitive-Forge-Partnership-to-Advance-Precision-Medicine-05-20-2026/default.aspx",
+          "dateText": "May 20, 2026",
+          "date": "2026-05-20"
+        },
+        {
+          "title": "FUJIFILM Cellular Dynamics Launches New iPSC Manufacturing Facility in Madison",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Cellular-Dynamics-Launches-New-iPSC-Manufacturing-Facility-in-Madison-05-19-2026/default.aspx",
+          "dateText": "May 19, 2026",
+          "date": "2026-05-19"
+        },
+        {
+          "title": "Fujifilm Hits The Road to Engage with Consumers Nationwide on its 2026 FUJIFILM instax™ Capture the Joy Tour",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Hits-The-Road-to-Engage-with-Consumers-Nationwide-on-its-2026-FUJIFILM-instax-Capture-the-Joy-Tour-05-18-2026/default.aspx",
+          "dateText": "May 18, 2026",
+          "date": "2026-05-18"
+        },
+        {
+          "title": "Fujifilm Launches the EB-710US, a Novel Next-Generation, Balloon-less Endobronchial Ultrasound (EBUS) Bronchoscope for Pulmonary Care",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Launches-the-EB-710US-a-Novel-Next-Generation-Balloon-less-Endobronchial-Ultrasound-EBUS-Bronchoscope-for-Pulmonary-Care-05-18-2026/default.aspx",
+          "dateText": "May 18, 2026",
+          "date": "2026-05-18"
+        },
+        {
+          "title": "Ardent Health and Fujifilm Partner to Deliver Synapse Enterprise Imaging Across Radiology and Cardiology Throughout all Facilities",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Ardent-Health-and-Fujifilm-Partner-to-Deliver-Synapse-Enterprise-Imaging-Across-Radiology-and-Cardiology-Throughout-all-Facilities-05-14-2026/default.aspx",
+          "dateText": "May 14, 2026",
+          "date": "2026-05-14"
+        },
+        {
+          "title": "Fujifilm’s ELUXEO 8000® Endoscopic Imaging System in Combination with 840TP Gastroscope Wins 2026 MedTech Breakthrough Award",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilms-ELUXEO-8000-Endoscopic-Imaging-System-in-Combination-with-840TP-Gastroscope-Wins-2026-MedTech-Breakthrough-Award-05-07-2026/default.aspx",
+          "dateText": "May 7, 2026",
+          "date": "2026-05-07"
+        },
+        {
+          "title": "Fujifilm Develops Novel Screening Platform to Identify High-Affinity Cyclic Peptides for Challenging Membrane Protein Target",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Develops-Novel-Screening-Platform-to-Identify-High-Affinity-Cyclic-Peptides-for-Challenging-Membrane-Protein-Target-05-07-2026/default.aspx",
+          "dateText": "May 7, 2026",
+          "date": "2026-05-07"
+        },
+        {
+          "title": "Fujifilm Government Affairs Head Elected to BIO Board of Directors",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Government-Affairs-Head-Elected-to-BIO-Board-of-Directors-05-06-2026/default.aspx",
+          "dateText": "May 6, 2026",
+          "date": "2026-05-06"
+        },
+        {
+          "title": "Fujifilm Named 2026 TIME100 Influential Company & Industry Leader",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Named-2026-TIME100-Influential-Company-Industry-Leader-04-30-2026/default.aspx",
+          "dateText": "April 30, 2026",
+          "date": "2026-04-30"
+        },
+        {
+          "title": "Fujifilm to Demonstrate its Leading-Edge Endoscopic Imaging Innovations at the Digestive Disease Week (DDW®) 2026 Conference",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-to-Demonstrate-its-Leading-Edge-Endoscopic-Imaging-Innovations-at-the-Digestive-Disease-Week-DDW-2026-Conference-04-30-2026/default.aspx",
+          "dateText": "April 30, 2026",
+          "date": "2026-04-30"
+        },
+        {
+          "title": "Fujifilm’s Taisuke Fujita Honored with Prestigious ASGE Crystal Award for Contributions to the Advancement of Endoscopic Care",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilms-Taisuke-Fujita-Honored-with-Prestigious-ASGE-Crystal-Award-for-Contributions-to-the-Advancement-of-Endoscopic-Care-04-28-2026/default.aspx",
+          "dateText": "April 28, 2026",
+          "date": "2026-04-28"
+        },
+        {
+          "title": "FUJIFILM North America Corporation Empowers Print Providers with New CAST Self-Service Program",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-North-America-Corporation-Empowers-Print-Providers-with-New-CAST-Self-Service-Program-04-23-2026/default.aspx",
+          "dateText": "April 23, 2026",
+          "date": "2026-04-23"
+        },
+        {
+          "title": "Fujifilm Powers U.S. and Canadian Operations with 100% Renewable Energy through Solar Partnership",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Powers-U-S--and-Canadian-Operations-with-100-Renewable-Energy-through-Solar-Partnership-04-21-2026/default.aspx",
+          "dateText": "April 21, 2026",
+          "date": "2026-04-21"
+        },
+        {
+          "title": "Fujifilm Introduces the Next Generation in Photo Printing Experiences: instax SPOT™ Photobooth and Print Station",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Introduces-the-Next-Generation-in-Photo-Printing-Experiences-instax-SPOT-Photobooth-and-Print-Station-04-15-2026/default.aspx",
+          "dateText": "April 15, 2026",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "FUJIFILM Biotechnologies Celebrates the Opening of its New Quality Control Laboratory in Denmark",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Biotechnologies-Celebrates-the-Opening-of-its-New-Quality-Control-Laboratory-in-Denmark-04-15-2026/default.aspx",
+          "dateText": "April 15, 2026",
+          "date": "2026-04-15"
+        },
+        {
+          "title": "FUJIFILM North America Corporation Announces U.S. Availability of FUJIFILM LTO Ultrium Generation 10 40TB Data Cartridges",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-North-America-Corporation-Announces-U-S--Availability-of-FUJIFILM-LTO-Ultrium-Generation-10-40TB-Data-Cartridges-04-02-2026/default.aspx",
+          "dateText": "April 2, 2026",
+          "date": "2026-04-02"
+        },
+        {
+          "title": "FUJIFILM Business Innovation Division Announces Innovation Print Awards 2026 Global Digital Print Competition",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Business-Innovation-Division-Announces-Innovation-Print-Awards-2026-Global-Digital-Print-Competition-04-01-2026/default.aspx",
+          "dateText": "April 1, 2026",
+          "date": "2026-04-01"
+        },
+        {
+          "title": "Fujifilm Refreshes Rio Takeda’s Sponsorship Website Ahead of Japan Ladies Professional Golfers' Association (JLPGA) Tournament in April",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Refreshes-Rio-Takedas-Sponsorship-Website-Ahead-of-Japan-Ladies-Professional-Golfers-Association-JLPGA-Tournament-in-April-04-01-2026/default.aspx",
+          "dateText": "April 1, 2026",
+          "date": "2026-04-01"
+        },
+        {
+          "title": "FUJIFILM Biotechnologies Named a 2026 CDMO Leadership Award Winner",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Biotechnologies-Named-a-2026-CDMO-Leadership-Award-Winner-03-26-2026/default.aspx",
+          "dateText": "March 26, 2026",
+          "date": "2026-03-26"
+        },
+        {
+          "title": "Fujifilm Announces Development of FUJINON UA16x4BERD, UA30x7.3BERD, and UA94x8.7BESM 4K Broadcast Zooms",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-Development-of-FUJINON-UA16x4BERD-UA30x7-3BERD-and-UA94x8-7BESM-4K-Broadcast-Zooms-03-18-2026/default.aspx",
+          "dateText": "March 18, 2026",
+          "date": "2026-03-18"
+        },
+        {
+          "title": "Fujifilm Announces Availability of FUJINON UA22x4.8BERD 4K Broadcast Zoom Lens",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-Availability-of-FUJINON-UA22x4-8BERD-4K-Broadcast-Zoom-Lens-03-18-2026/default.aspx",
+          "dateText": "March 18, 2026",
+          "date": "2026-03-18"
+        },
+        {
+          "title": "Joy and Creativity in the Palm of Your Hand: Fujifilm Introduces instax mini 13™ Instant Camera",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Joy-and-Creativity-in-the-Palm-of-Your-Hand-Fujifilm-Introduces-instax-mini-13-Instant-Camera-03-16-2026/default.aspx",
+          "dateText": "March 16, 2026",
+          "date": "2026-03-16"
+        },
+        {
+          "title": "Fujifilm Expands U.S. Office and Production Print Solutions and Services Market with ImpactWest as a Strategic Partner",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Expands-U-S--Office-and-Production-Print-Solutions-and-Services-Market-with-ImpactWest-as-a-Strategic-Partner-03-16-2026/default.aspx",
+          "dateText": "March 16, 2026",
+          "date": "2026-03-16"
+        },
+        {
+          "title": "FUJIFILM Biotechnologies Appoints Christiane Bardroff as Chief Business Officer",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Biotechnologies-Appoints-Christiane-Bardroff-as-Chief-Business-Officer-03-12-2026/default.aspx",
+          "dateText": "March 12, 2026",
+          "date": "2026-03-12"
+        },
+        {
+          "title": "Fujifilm Showcases AI-Driven Solutions That Enable Health Systems to Enhance Enterprise Imaging Workflows at HIMSS 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Showcases-AI-Driven-Solutions-That-Enable-Health-Systems-to-Enhance-Enterprise-Imaging-Workflows-at-HIMSS-2026-03-05-2026/default.aspx",
+          "dateText": "March 5, 2026",
+          "date": "2026-03-05"
+        },
+        {
+          "title": "FUJIFILM Biotechnologies Unveils ShunzymeX™ precision purification technology",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Biotechnologies-Unveils-ShunzymeX-precision-purification-technology-03-03-2026/default.aspx",
+          "dateText": "March 3, 2026",
+          "date": "2026-03-03"
+        },
+        {
+          "title": "Fujifilm Completes Investment in Rapidus",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Completes-Investment-in-Rapidus-02-27-2026/default.aspx",
+          "dateText": "February 27, 2026",
+          "date": "2026-02-27"
+        },
+        {
+          "title": "FUJIFILM Business Innovation Acquires ETG Global to Accelerate ERP Systems Business Expansion",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Business-Innovation-Acquires-ETG-Global-to-Accelerate-ERP-Systems-Business-Expansion-02-26-2026/default.aspx",
+          "dateText": "February 26, 2026",
+          "date": "2026-02-26"
+        },
+        {
+          "title": "Fujifilm to Present Latest Advanced Lithography Research at SPIE Advanced Lithography + Patterning 2026 Conference",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-to-Present-Latest-Advanced-Lithography-Research-at-SPIE-Advanced-Lithography--Patterning-2026-Conference-02-19-2026/default.aspx",
+          "dateText": "February 19, 2026",
+          "date": "2026-02-19"
+        },
+        {
+          "title": "FUJIFILM Biotechnologies Unveils Biomanufacturing and Process Development Expansion in the United Kingdom",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Biotechnologies-Unveils-Biomanufacturing-and-Process-Development-Expansion-in-the-United-Kingdom-02-11-2026/default.aspx",
+          "dateText": "February 11, 2026",
+          "date": "2026-02-11"
+        },
+        {
+          "title": "FUJIFILM Dimatix Launches the DMP-2850 S Materials Printer Designed for Researchers and Universities",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Dimatix-Launches-the-DMP-2850-S-Materials-Printer-Designed-for-Researchers-and-Universities-02-02-2026/default.aspx",
+          "dateText": "February 2, 2026",
+          "date": "2026-02-02"
+        },
+        {
+          "title": "Fujifilm and Voicebrook Partner to Deliver Voice-Enabled Reporting within the Synapse Pathology Ecosystem",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-and-Voicebrook-Partner-to-Deliver-Voice-Enabled-Reporting-within-the-Synapse-Pathology-Ecosystem-01-21-2026/default.aspx",
+          "dateText": "January 21, 2026",
+          "date": "2026-01-21"
+        },
+        {
+          "title": "Fujifilm Unveils FUJIFILM PROJECTOR ZUH12000",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Unveils-FUJIFILM-PROJECTOR-ZUH12000-01-20-2026/default.aspx",
+          "dateText": "January 20, 2026",
+          "date": "2026-01-20"
+        },
+        {
+          "title": "Fujifilm Launches FUJIFILM SX400 Lens-Integrated Long-Range Camera",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Launches-FUJIFILM-SX400-Lens-Integrated-Long-Range-Camera-01-20-2026/default.aspx",
+          "dateText": "January 20, 2026",
+          "date": "2026-01-20"
+        },
+        {
+          "title": "FUJIFILM GFX ETERNA 55 Filmmaking Camera Joins Fleet of IMAX®-Certified Digital Cameras",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-GFX-ETERNA-55-Filmmaking-Camera-Joins-Fleet-of-IMAX-Certified-Digital-Cameras-01-20-2026/default.aspx",
+          "dateText": "January 20, 2026",
+          "date": "2026-01-20"
+        },
+        {
+          "title": "Lights, Evo, Action: Fujifilm Introduces instax mini Evo Cinema™ Hybrid Instant Camera",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Lights-Evo-Action-Fujifilm-Introduces-instax-mini-Evo-Cinema-Hybrid-Instant-Camera-01-13-2026/default.aspx",
+          "dateText": "January 13, 2026",
+          "date": "2026-01-13"
+        },
+        {
+          "title": "Fujifilm Introduces instax mini Link+™ Smartphone Printer",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Introduces-instax-mini-Link-Smartphone-Printer-01-13-2026/default.aspx",
+          "dateText": "January 13, 2026",
+          "date": "2026-01-13"
+        },
+        {
+          "title": "Fujifilm Expands Specialty Toner Portfolio with Metallic Gold for REVORIA PRESS™ EC2100S and SC285S",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Expands-Specialty-Toner-Portfolio-with-Metallic-Gold-for-REVORIA-PRESS-EC2100S-and-SC285S-01-13-2026/default.aspx",
+          "dateText": "January 13, 2026",
+          "date": "2026-01-13"
+        },
+        {
+          "title": "FUJIFILM Irvine Scientific Now Officially FUJIFILM Biosciences",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/FUJIFILM-Irvine-Scientific-Now-Officially-FUJIFILM-Biosciences-01-05-2026/default.aspx",
+          "dateText": "January 5, 2026",
+          "date": "2026-01-05"
+        }
+      ]
+    },
+    {
+      "name": "ConnectWise",
+      "url": "https://www.globenewswire.com/search/organization/connectwise%CE%B4%2520inc%C2%A7",
+      "articles": [
+        {
+          "title": "ConnectWise Names Mari-Frances Bentvelzen President, Revenue & Commercial Operations",
+          "url": "https://www.globenewswire.com/news-release/2026/10/01/3372998/27043/en/connectwise-names-mari-frances-bentvelzen-president-revenue-commercial-operations.html",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "ConnectWise Expands x360Recover Across APAC with New Australian Data Centre and Product Enhancements",
+          "url": "https://www.globenewswire.com/news-release/2026/08/25/3350862/27043/en/connectwise-expands-x360recover-across-apac-with-new-australian-data-centre-and-product-enhancements.html",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "ConnectWise Appoints Cybersecurity and Enterprise Tech Leader Craig Rones as Chief Marketing Officer",
+          "url": "https://www.globenewswire.com/news-release/2026/08/25/3350498/27043/en/connectwise-appoints-cybersecurity-and-enterprise-tech-leader-craig-rones-as-chief-marketing-officer.html",
+          "date": "2026-08-25"
+        },
+        {
+          "title": "ConnectWise and SentinelOne Announce Shared Strategy to Advance Managed Cybersecurity for MSPs at Black Hat 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/08/04/3338765/27043/en/connectwise-and-sentinelone-announce-shared-strategy-to-advance-managed-cybersecurity-for-msps-at-black-hat-2026.html",
+          "date": "2026-08-04"
+        },
+        {
+          "title": "The Reactive Support Era Is Over: ConnectWise Platform Is Now Live, Empowering Partners in Journey to Predictive Intelligence",
+          "url": "https://www.globenewswire.com/news-release/2026/07/16/3328407/27043/en/the-reactive-support-era-is-over-connectwise-platform-is-now-live-empowering-partners-in-journey-to-predictive-intelligence.html",
+          "date": "2026-07-16"
+        },
+        {
+          "title": "Service Leadership Report Reveals Historic Growth for IT Solution Providers and the Operational Factors Defining This Economic Shift",
+          "url": "https://www.globenewswire.com/news-release/2026/06/23/3316157/27043/en/service-leadership-report-reveals-historic-growth-for-it-solution-providers-and-the-operational-factors-defining-this-economic-shift.html",
+          "date": "2026-06-23"
+        },
+        {
+          "title": "ConnectWise Expands EMEA Leadership Presence as MSP Industry Enters the Era of Predictive IT",
+          "url": "https://www.globenewswire.com/news-release/2026/06/18/3314226/27043/en/connectwise-expands-emea-leadership-presence-as-msp-industry-enters-the-era-of-predictive-it.html",
+          "date": "2026-06-18"
+        },
+        {
+          "title": "ConnectWise Unveils the Industry’s First Predictive Intelligence Platform to Lead the Era of Predictive IT",
+          "url": "https://www.globenewswire.com/news-release/2026/06/08/3308024/27043/en/connectwise-unveils-the-industry-s-first-predictive-intelligence-platform-to-lead-the-era-of-predictive-it.html",
+          "date": "2026-06-08"
+        },
+        {
+          "title": "ConnectWise Advances AI Leadership with Agentic AI - zofiQ Doesn’t Just Assist, It Executes",
+          "url": "https://www.globenewswire.com/news-release/2026/04/27/3281663/27043/en/connectwise-advances-ai-leadership-with-agentic-ai-zofiq-doesn-t-just-assist-it-executes.html",
+          "date": "2026-04-27"
+        },
+        {
+          "title": "ConnectWise Launches Modern Threat Protection with Delivery Guarantees, Setting a New Standard for MSP Cybersecurity",
+          "url": "https://www.globenewswire.com/news-release/2026/04/09/3271020/27043/en/connectwise-launches-modern-threat-protection-with-delivery-guarantees-setting-a-new-standard-for-msp-cybersecurity.html",
+          "date": "2026-04-09"
+        }
+      ]
+    }
+  ]
+}
