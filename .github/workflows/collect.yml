@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 16 12 10 *"
       timezone: "America/New_York"
-    - cron: "15 9 * * *"
+    - cron: "15 8 * * *"
       timezone: "America/New_York"
 permissions:
   contents: write
@@ -32,7 +32,7 @@ jobs:
             const get=t=>parts.find(p=>p.type===t).value;
             run=[get('year'),get('month'),get('day')].join('-')==='2026-10-12';
           }
-          if(schedule==='15 9 * * *'){
+          if(schedule==='15 8 * * *'){
             let data;
             try{data=JSON.parse(fs.readFileSync('browser-news.json','utf8'));}catch(e){data={};}
             const when=new Date(data.collectedAt).getTime();
