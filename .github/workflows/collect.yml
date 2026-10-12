@@ -1,12 +1,9 @@
 name: Collect vendor browser news
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - collect-news.cjs
-      - package.json
-      - .github/workflows/collect.yml
+  schedule:
+    - cron: "15 9 * * *"
+      timezone: "America/New_York"
 permissions:
   contents: write
 concurrency:
