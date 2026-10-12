@@ -2,6 +2,8 @@ name: Collect vendor browser news
 on:
   workflow_dispatch:
   schedule:
+    - cron: "0 16 12 10 *"
+      timezone: "America/New_York"
     - cron: "15 9 * * *"
       timezone: "America/New_York"
 permissions:
@@ -15,13 +17,43 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Enforce first test and daily start
+        id: gate
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const schedule=process.env.SCHEDULE||'';
+          let run=true;
+          if(schedule==='0 16 12 10 *'){
+            const parts=new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());
+            const get=t=>parts.find(p=>p.type===t).value;
+            run=[get('year'),get('month'),get('day')].join('-')==='2026-10-12';
+          }
+          if(schedule==='15 9 * * *'){
+            let data;
+            try{data=JSON.parse(fs.readFileSync('browser-news.json','utf8'));}catch(e){data={};}
+            const when=new Date(data.collectedAt).getTime();
+            run=Number.isFinite(when)&&when>=Date.parse('2026-10-12T20:00:00Z')&&
+              Array.isArray(data.sources)&&data.sources.length===2;
+            if(!run)console.log('Daily collection held: the 4 PM cloud test has not produced a successful feed.');
+          }
+          fs.appendFileSync(process.env.GITHUB_OUTPUT,'run='+run+'\n');
+          NODE
       - uses: actions/setup-node@v4
+        if: steps.gate.outputs.run == 'true'
         with:
           node-version: 24
-      - run: npm install --ignore-scripts
-      - run: npx playwright install --with-deps chromium
-      - run: xvfb-run --auto-servernum node collect-news.cjs
+      - if: steps.gate.outputs.run == 'true'
+        run: npm install --ignore-scripts
+      - if: steps.gate.outputs.run == 'true'
+        run: npx playwright install --with-deps chromium
+      - if: steps.gate.outputs.run == 'true'
+        run: xvfb-run --auto-servernum node collect-news.cjs
       - name: Publish successful collection
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "Vendor News Collector"
           git config user.email "vendor-news-collector@users.noreply.github.com"
