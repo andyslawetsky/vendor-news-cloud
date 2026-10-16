@@ -1,10 +1,16 @@
 {
-  "collectedAt": "2026-10-15T12:56:22.248Z",
+  "collectedAt": "2026-10-16T12:55:15.291Z",
   "sources": [
     {
       "name": "Fujifilm USA",
       "url": "https://newsroom-us.fujifilm.com/press-releases/default.aspx",
       "articles": [
+        {
+          "title": "Fujifilm’s instax mini Evo Cinema™ Named One of TIME’s Best Inventions of 2026",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilms-instax-mini-Evo-Cinema-Named-One-of-TIMEs-Best-Inventions-of-2026/default.aspx",
+          "dateText": "October 15, 2026",
+          "date": "2026-10-15"
+        },
         {
           "title": "Capture What Shapes You - Fujifilm Introduces instax SQUARE 2™ instant camera",
           "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Capture-What-Shapes-You---Fujifilm-Introduces-instax-SQUARE-2-instant-camera/default.aspx",
