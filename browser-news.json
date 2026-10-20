@@ -1,10 +1,16 @@
 {
-  "collectedAt": "2026-10-19T12:55:17.722Z",
+  "collectedAt": "2026-10-20T12:55:36.204Z",
   "sources": [
     {
       "name": "Fujifilm USA",
       "url": "https://newsroom-us.fujifilm.com/press-releases/default.aspx",
       "articles": [
+        {
+          "title": "Fujifilm Announces Global Strategic Partnership With ePac Flexible Packaging",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-Global-Strategic-Partnership-With-ePac-Flexible-Packaging/default.aspx",
+          "dateText": "October 19, 2026",
+          "date": "2026-10-19"
+        },
         {
           "title": "Fujifilm Expands Bronchoscopy Portfolio With Two New 800 Series Bronchoscopes at CHEST 2026 Annual Meeting",
           "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Expands-Bronchoscopy-Portfolio-With-Two-New-800-Series-Bronchoscopes-at-CHEST-2026-Annual-Meeting/default.aspx",
