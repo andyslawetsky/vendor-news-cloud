@@ -1,10 +1,16 @@
 {
-  "collectedAt": "2026-10-25T12:50:24.740Z",
+  "collectedAt": "2026-10-28T13:07:00.499Z",
   "sources": [
     {
       "name": "Fujifilm USA",
       "url": "https://newsroom-us.fujifilm.com/press-releases/default.aspx",
       "articles": [
+        {
+          "title": "Fujifilm Introduces instax mini Evo 2™ Hybrid Instant Camera",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Introduces-instax-mini-Evo-2-Hybrid-Instant-Camera/default.aspx",
+          "dateText": "October 26, 2026",
+          "date": "2026-10-26"
+        },
         {
           "title": "Fujifilm Announces Global Strategic Partnership With ePac Flexible Packaging",
           "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Announces-Global-Strategic-Partnership-With-ePac-Flexible-Packaging/default.aspx",
