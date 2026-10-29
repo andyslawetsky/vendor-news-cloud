@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-28T13:07:00.499Z",
+  "collectedAt": "2026-10-29T13:08:26.359Z",
   "sources": [
     {
       "name": "Fujifilm USA",
@@ -546,6 +546,11 @@
       "url": "https://www.globenewswire.com/search/organization/connectwise%CE%B4%2520inc%C2%A7",
       "articles": [
         {
+          "title": "Your RMM Now Investigates Its Own Tickets: ConnectWise Launches Industry’s First Agentic RMM",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391328/27043/en/your-rmm-now-investigates-its-own-tickets-connectwise-launches-industry-s-first-agentic-rmm.html",
+          "date": "2026-10-29"
+        },
+        {
           "title": "ConnectWise Names Mari-Frances Bentvelzen President, Revenue & Commercial Operations",
           "url": "https://www.globenewswire.com/news-release/2026/10/01/3372998/27043/en/connectwise-names-mari-frances-bentvelzen-president-revenue-commercial-operations.html",
           "date": "2026-10-01"
@@ -589,11 +594,6 @@
           "title": "ConnectWise Advances AI Leadership with Agentic AI - zofiQ Doesn’t Just Assist, It Executes",
           "url": "https://www.globenewswire.com/news-release/2026/04/27/3281663/27043/en/connectwise-advances-ai-leadership-with-agentic-ai-zofiq-doesn-t-just-assist-it-executes.html",
           "date": "2026-04-27"
-        },
-        {
-          "title": "ConnectWise Launches Modern Threat Protection with Delivery Guarantees, Setting a New Standard for MSP Cybersecurity",
-          "url": "https://www.globenewswire.com/news-release/2026/04/09/3271020/27043/en/connectwise-launches-modern-threat-protection-with-delivery-guarantees-setting-a-new-standard-for-msp-cybersecurity.html",
-          "date": "2026-04-09"
         }
       ]
     }
