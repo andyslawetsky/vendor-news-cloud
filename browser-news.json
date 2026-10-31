@@ -1,10 +1,16 @@
 {
-  "collectedAt": "2026-10-30T13:06:01.275Z",
+  "collectedAt": "2026-10-31T12:57:48.246Z",
   "sources": [
     {
       "name": "Fujifilm USA",
       "url": "https://newsroom-us.fujifilm.com/press-releases/default.aspx",
       "articles": [
+        {
+          "title": "Fujifilm to Increase Production Capacity by 5x for Magnetic Data Storage Tape",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-to-Increase-Production-Capacity-by-5x-for-Magnetic-Data-Storage-Tape/default.aspx",
+          "dateText": "October 30, 2026",
+          "date": "2026-10-30"
+        },
         {
           "title": "Fujifilm Introduces instax mini Evo 2™ Hybrid Instant Camera",
           "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-Introduces-instax-mini-Evo-2-Hybrid-Instant-Camera/default.aspx",
