@@ -1,10 +1,16 @@
 {
-  "collectedAt": "2026-11-06T14:24:46.443Z",
+  "collectedAt": "2026-11-07T13:57:30.998Z",
   "sources": [
     {
       "name": "Fujifilm USA",
       "url": "https://newsroom-us.fujifilm.com/press-releases/default.aspx",
       "articles": [
+        {
+          "title": "Create With Us: On Tour - Fujifilm Brings Its Flagship Community Event to Creators Nationwide",
+          "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Create-With-Us-On-Tour---Fujifilm-Brings-Its-Flagship-Community-Event-to-Creators-Nationwide/default.aspx",
+          "dateText": "November 6, 2026",
+          "date": "2026-11-06"
+        },
         {
           "title": "Fujifilm to Increase Production Capacity by 5x for Magnetic Data Storage Tape",
           "url": "https://newsroom-us.fujifilm.com/press-releases/press-release-details/2026/Fujifilm-to-Increase-Production-Capacity-by-5x-for-Magnetic-Data-Storage-Tape/default.aspx",
